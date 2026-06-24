@@ -13,3 +13,6 @@
     * `pip list` to list the installed packages
     * `pip freeze > requirements.txt` to store the installed packages (and specific versions) into the file
     * `pip install -r requirements.txt` to install packages specified in the file
+
+## Links
+* [Exception Hierarchy](https://docs.python.org/3.11/library/exceptions.html#exception-hierarchy)
